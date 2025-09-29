@@ -1,4 +1,4 @@
-# Simple Makefile for Lab 1, Lab 2, Lab 3
+-# Simple Makefile for Lab 1, Lab 2, Lab 3
 CC = gcc
 CFLAGS = -std=c11 -Wall -Wextra -Wpedantic -O2
 LDFLAGS = -lm
